@@ -27,4 +27,25 @@ Due to confidentiality I am unable to disclose any code or dataset regarding thi
 
 ![Cleaverlearn_gif](https://github.com/user-attachments/assets/981a499a-5264-4948-b550-2d1c1e020cee)
 
+Automatic multiple-choice question generator from educational content (Wikipedia, Markdown).
+
+#### 🎯 Architecture:
+
+Modular NLP pipeline to transform raw text into structured quizzes with Pydantic validation at each stage.
+
+#### Key Technologies:
+
+- LLM (OpenAI GPT): Prompt engineering for concept extraction and Q&A generation
+- Semantic clustering: sentence-transformers + cosine similarity to group similar concepts
+- Smart scraping: BeautifulSoup with JSON caching/indexing system
+- Composable pipelines: Modular architecture with detailed logging
+
+#### Main pipelines:
+
+- ConceptExtractor: Identifies key pedagogical concepts
+- ConceptClusterCombiner: Groups by semantic similarity
+- QuestionAnswerGenerator: Creates relevant questions
+- DistractorGenerator: Generates plausible wrong answers
+- QCMCleaner: Final JSON validation and formatting
+
 
