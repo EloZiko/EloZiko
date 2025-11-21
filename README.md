@@ -48,4 +48,26 @@ Modular NLP pipeline to transform raw text into structured quizzes with Pydantic
 - DistractorGenerator: Generates plausible wrong answers
 - QCMCleaner: Final JSON validation and formatting
 
+### Terraria x Minecraft x 2048 game
+
+A hybrid game combining sandbox exploration with puzzle mechanics. Mine numbered blocks in a procedurally generated world, then play 2048 with collected tiles to unlock better pickaxes.
+
+#### Concept
+Explore a 2D world, mine numbered tiles (2→2048) from terrain blocks, play 2048 in your house, and unlock colored pickaxes based on your score to access harder materials.
+
+Progression: Dirt (no req.) → Stone (16+ tile) → Obsidian (64+ tile) → Deep resources (256+ tile)
+
+#### Technical Architecture
+Modular MVC Design with optimized rendering and custom physics.
+
+#### Key Technologies:
+- Game Engine: Pygame-CE for 60 FPS performance
+- Physics: Custom gravity simulation (V₀ = 564, max jump = 2.3 blocks)
+- Rendering: Viewport culling + .convert() optimization for large backgrounds
+- State Management: Dual-world system with seamless transitions
+- Player System: Inventory management, physics (parabolic jumps, collision), animation state machine
+- Background Renderer: Procedural generation, optimized culling, dual-world (overworld ↔ house)
+- 2048 Integration: Grid puzzle with merge mechanics affecting mining capabilities
+
+
 
