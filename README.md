@@ -70,4 +70,11 @@ Modular MVC Design with optimized rendering and custom physics.
 - 2048 Integration: Grid puzzle with merge mechanics affecting mining capabilities
 
 
+### Cheer Up! Centrale Supélec Website
+As part of the Cheer Up! association, I developed the team’s website with Anaël Anzala (HTML, CSS, JavaScript) and helped organize solidarity projects, including weekly visits to Gustave Roussy Hospital to support children with cancer. You can check her the website: https://www.cheerup-cs.fr/
+
+
+
+
+
 
