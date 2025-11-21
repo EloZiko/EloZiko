@@ -1,6 +1,8 @@
-## Hello, I'm Zakaria El Ouahidi👋
+# Hello, I'm Zakaria El Ouahidi👋
+I'm a CS MEng student at Centrale Supélec, Paris-Saclay University
 
 
+## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-yellow)
 ![Java](https://img.shields.io/badge/Java-orange)
 ![HTML](https://shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-f06529?logo=html5&logoColor=white&labelColor=f06529)
@@ -9,6 +11,9 @@
 ![Stats](https://img.shields.io/badge/Statistics-blue)
 
 
+## My projects 
+
+### First 
 - 🔭 I’m currently working on blablabla
 - 🌱 I’m currently learning bloubloublou
 - 👯 I’m looking to collaborate on ...
