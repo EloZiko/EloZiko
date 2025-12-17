@@ -13,7 +13,7 @@ I'm a CS MEng student at Centrale Supélec, Paris-Saclay University
 
 ## My projects 
 
-### Building a model to predict neonatal bronchopulmonary dysplasia  
+### Building a model to predict neonatal bronchopulmonary dysplasia ------------------------------------------------------------------------------------------------------------------
 Congenital Diaphragmatic Hernia is a rare disease affecting about 1 in 3,000 foetuses, characterized by a hole in the diaphragm that allows the stomach, liver and other organs to move into the thorax and compress the heart and lungs. Depending on the severity and timing of the condition, this can cause lung and heart development issues and, in the most serious cases, can be life-threatening.
 
 Specialists use ultrasound and MRI to assess the disease and potentially schedule an operation to mitigate the impact on the lungs. They are usually confident about survival rates, but are less able to predict whether the foetus will require long-term respiratory support or only a period of close surveillance. Since this information is crucial for parents in their decision-making about continuing pregnancy, AP-HP and the Kremlin-Bicêtre hospital lab, France’s reference center for the disease, asked us to train models on their data to see if prediction capability could be improved.
@@ -23,7 +23,7 @@ This project is currently underway and managed by a team of five.
 Due to confidentiality I am unable to disclose any code or dataset regarding this mission.
 
 
-### Developed a QCM generator for the start-up Cleaverlearn
+### Developed a QCM generator for the start-up Cleaverlearn --------------------------------------------------------------------------------------------------------------------------
 
 ![Cleaverlearn_gif](https://github.com/user-attachments/assets/981a499a-5264-4948-b550-2d1c1e020cee)
 
