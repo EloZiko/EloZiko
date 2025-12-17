@@ -13,7 +13,7 @@ I'm a CS MEng student at Centrale Supélec, Paris-Saclay University
 
 ## My projects 
 
-### Building a model to predict neonatal bronchopulmonary dysplasia ------------------------------------------------------------------------------------------------------------------
+### Building a model to predict neonatal bronchopulmonary dysplasia --------------------------------------------------
 Congenital Diaphragmatic Hernia is a rare disease affecting about 1 in 3,000 foetuses, characterized by a hole in the diaphragm that allows the stomach, liver and other organs to move into the thorax and compress the heart and lungs. Depending on the severity and timing of the condition, this can cause lung and heart development issues and, in the most serious cases, can be life-threatening.
 
 Specialists use ultrasound and MRI to assess the disease and potentially schedule an operation to mitigate the impact on the lungs. They are usually confident about survival rates, but are less able to predict whether the foetus will require long-term respiratory support or only a period of close surveillance. Since this information is crucial for parents in their decision-making about continuing pregnancy, AP-HP and the Kremlin-Bicêtre hospital lab, France’s reference center for the disease, asked us to train models on their data to see if prediction capability could be improved.
@@ -23,8 +23,7 @@ This project is currently underway and managed by a team of five.
 Due to confidentiality I am unable to disclose any code or dataset regarding this mission.
 
 
-### Developed a QCM generator for the start-up Cleaverlearn --------------------------------------------------------------------------------------------------------------------------
-
+### Developed a QCM generator for the start-up Cleaverlearn ---------------------------------------------------------- 
 ![Cleaverlearn_gif](https://github.com/user-attachments/assets/981a499a-5264-4948-b550-2d1c1e020cee)
 
 Automatic multiple-choice question generator from educational content (Wikipedia, Markdown).
@@ -48,7 +47,7 @@ Modular NLP pipeline to transform raw text into structured quizzes with Pydantic
 - DistractorGenerator: Generates plausible wrong answers
 - QCMCleaner: Final JSON validation and formatting
 
-### Terraria x Minecraft x 2048 game
+### Terraria x Minecraft x 2048 game ----------------------------------------------------------------------------------
 
 A hybrid game combining sandbox exploration with puzzle mechanics. Mine numbered blocks in a procedurally generated world, then play 2048 with collected tiles to unlock better pickaxes.
 
@@ -70,7 +69,7 @@ Modular MVC Design with optimized rendering and custom physics.
 - 2048 Integration: Grid puzzle with merge mechanics affecting mining capabilities
 
 
-### Cheer Up! Centrale Supélec Website
+### Cheer Up! Centrale Supélec Website --------------------------------------------------------------------------------
 As part of the Cheer Up! association, I developed the team’s website with Anaël Anzala (HTML, CSS, JavaScript) and helped organize solidarity projects, including weekly visits to Gustave Roussy Hospital to support children with cancer. You can check her the website: https://www.cheerup-cs.fr/
 
 
