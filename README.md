@@ -1,6 +1,6 @@
 # Zakaria El Ouahidi
 
-Student at **Harvard University**, in the AI & Robotics Lab, advised by Dr. Wang.  
+Student at **Harvard University**, in the AI & Robotics Lab, advised by Pr. Wang.  
 Before that: MEng in Computer Science at **CentraleSupélec**, Paris-Saclay University.
 
 Currently working on **world models**, **spatial reasoning for VLMs** and **flow matching**.
