@@ -5,11 +5,27 @@ Before that: MEng in Computer Science at **CentraleSupélec**, Paris-Saclay Univ
 
 Currently working on **world models**, **spatial reasoning for VLMs** and **flow matching**.
 
+📄 [Download my CV](https://github.com/EloZiko/EloZiko/blob/main/CV.pdf)
+
 <br>
 
 **ML/DL:** Python · PyTorch · Scikit-learn · Pandas  
 **LLMs:** HF Transformers · LangChain · OpenAI API · RAG  
 **Infra:** Slurm · GPU clusters · Git · LaTeX
+
+<br>
+
+## Experience
+
+**Student Researcher, Harvard AI and Robotics Lab** · Boston, USA · Sept 2026 – present
+
+- **MASAR**, confidence-aware LoRA merging: co-developed a method that beats the best label-free baseline by over 7 accuracy points.
+- **LatentParse**, reading visual latents for spatial reasoning in VLMs: co-developed a training-free agentic loop.
+- **SE(3)**, camera-motion operators on the hidden states of VLMs to improve 3D spatial reasoning. Target: **ICML 2027**.
+
+**Student Researcher, PUC-Rio** · Rio de Janeiro, Brazil · Mar – Sept 2026
+
+Rebuilt the AWS DeepRacer simulator as an open platform after the service shut down, added TRPO next to PPO, and benchmarked both on 30 tracks. Paper in preparation.
 
 <br>
 
