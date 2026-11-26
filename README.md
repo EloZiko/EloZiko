@@ -5,7 +5,7 @@ Before that: MEng in Computer Science at **CentraleSupélec**, Paris-Saclay Univ
 
 Currently working on **world models**, **spatial reasoning for VLMs** and **flow matching**.
 
-📄 [Download my CV](https://github.com/EloZiko/EloZiko/blob/main/CV.pdf)
+🌐 [Personal website](https://eloziko.github.io) · 📄 [Download my CV](https://github.com/EloZiko/EloZiko/blob/main/CV.pdf)
 
 <br>
 
